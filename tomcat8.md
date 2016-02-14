@@ -4,7 +4,7 @@
 
 * I have already installed an apache2 server
 
-* I am an debian-jessie
+* I am on debian-jessie
 
 Install Tomcat 8
 =====================
