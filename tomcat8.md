@@ -63,7 +63,7 @@ $ sudo /bin/su - {USer} -c /usr/share/tomcat/bin/shutdown.sh
 ```
 Make a restart file
 =====================
-Create tomacat.sh
+Create tomcat.sh
 ```
 #!cmd
 $ cd
