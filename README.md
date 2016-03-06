@@ -1,2 +1,2 @@
 # config
-Command tu set up server
+Command to set up server
